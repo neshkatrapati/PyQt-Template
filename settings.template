@@ -1,0 +1,8 @@
+Enter Name:name:text
+Favourite Distro:distro:combo:Ubuntu:Debian:#!:Fedora
+Want Lunch?:lunch:checkbox
+Volume:volume:slider:horizontal
+Select A Date:cal:calendar
+Select Preference:prefs:radio:Non Vegetarian:Eggitarian:Vegetarian:Vegan
+Address:addr:textbox
+What do You Own?:owns:listcheck:Car:Two-Wheeler:Cycle:Lorry:Mini-Van

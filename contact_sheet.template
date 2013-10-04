@@ -1,0 +1,7 @@
+UserDetails:tab
+	Name:name:text
+	Email:email:text
+	Phone Number:phone:text
+	Preference:pref:combo:Daily:Weekly:Monthly
+	Gender:gender:radio:Others:Male:Female
+Agree To the Terms:terms:checkbox
